@@ -6,7 +6,7 @@ import json
 # =========================
 # 토큰
 # =========================
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("MTUwNzM1MzAwNzc5MTE0OTEzNw.GWjAOY.YfIgLL1v0Hy850Lj2Xao0WIkE9PVJtsyLz30RU")
 
 # =========================
 # 디스코드 설정
