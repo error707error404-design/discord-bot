@@ -3,7 +3,7 @@ from discord.ext import commands
 import json
 import os
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("MTUwNzM1MzAwNzc5MTE0OTEzNw.GWjAOY.YfIgLL1v0Hy850Lj2Xao0WIkE9PVJtsyLz30RU")
 
 intents = discord.Intents.default()
 intents.message_content = True
